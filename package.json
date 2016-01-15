@@ -1,0 +1,26 @@
+{
+  "name": "tidetime",
+  "version": "1.0.0",
+  "description": "Backend for data gathered from NOAA",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarjandu/tideTime.git"
+  },
+  "keywords": [
+    "tide",
+    "NOAA"
+  ],
+  "author": "amar jandu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarjandu/tideTime/issues"
+  },
+  "homepage": "https://github.com/amarjandu/tideTime#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
